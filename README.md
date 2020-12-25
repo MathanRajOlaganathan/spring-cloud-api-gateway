@@ -32,7 +32,7 @@ It handles the req in one of the two ways:
 * Multi-region Resiliency: It routes requests across AWS regions in order to diversify our ELB usa
 
 
-_discovery-server_ - Eureka Discovery Server to regiter the microservices
-_shopping-service_ -Restfull services which provides the shopping items
-_zuul-gateway_ gateway server using zuul to route the  traffic
-_shopping-client_ - Restful Service to invoke the shopping service using feign client through the gateway
+* _discovery-server_ - Eureka Discovery Server to regiter the microservices
+* _shopping-service_ -Restfull services which provides the shopping items
+* _zuul-gateway_ gateway server using zuul to route the  traffic
+* _shopping-client_ - Restful Service to invoke the shopping service using feign client through the gateway
