@@ -1,0 +1,14 @@
+/.idea/
+/src/
+/discovery-server/.mvn/
+/discovery-server/mvnw.cmd
+/discovery-server/mvnw
+/shopping-client/.mvn/
+/shopping-client/mvnw
+/shopping-client/mvnw.cmd
+/shopping-service/.mvn/
+/shopping-service/mvnw
+/shopping-service/mvnw.cmd
+/zuul-gateway/.mvn/
+/zuul-gateway/mvnw
+/zuul-gateway/mvnw.cmd
