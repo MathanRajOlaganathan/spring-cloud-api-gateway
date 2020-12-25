@@ -31,7 +31,7 @@ It handles the req in one of the two ways:
 * Static Response Handling: It builds some responses directly at the edge instead of forwarding them to an internal cluster.
 * Multi-region Resiliency: It routes requests across AWS regions in order to diversify our ELB usa
 
-
+###### Demo
 * _discovery-server_ - Eureka Discovery Server to regiter the microservices
 * _shopping-service_ -Restfull services which provides the shopping items
 * _zuul-gateway_ gateway server using zuul to route the  traffic
